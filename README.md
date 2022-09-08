@@ -1,2 +1,2 @@
 # uncovering-heavy-traffic-indicators
-Data exploration and visualization project on identifying predictors of heavy traffic on I-94
+This project sets out to explore the variables that cause westbound traffic congestion on I-94.
